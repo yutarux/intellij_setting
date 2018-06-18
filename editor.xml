@@ -1,0 +1,10 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="Ricty Diminished Discord" />
+    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+</application>
