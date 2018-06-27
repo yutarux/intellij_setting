@@ -58,6 +58,10 @@
           <option name="url" value="https://gitlab.com/sitescope/Tsunoru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs:8080/tfs/UnifaceCollection/Uniface_%E5%B7%A5%E5%A0%B4%E5%90%91%E3%81%91%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_git/IB-Mes" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/sd/projects" />
