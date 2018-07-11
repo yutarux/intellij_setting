@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="mwb" type="Native" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="server_type_develop" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
