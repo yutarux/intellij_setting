@@ -66,6 +66,10 @@
           <option name="url" value="https://gitlab.com/sitescope/one_fox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/sitescope/one_fox" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/sd/projects" />
