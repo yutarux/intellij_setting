@@ -51,7 +51,7 @@
     <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="BRACE_STYLE" value="2" />
+    <option name="BRACE_STYLE" value="5" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
@@ -81,7 +81,6 @@
     <option name="SPACE_BEFORE_WHILE_KEYWORD" value="false" />
     <option name="SPACE_BEFORE_CATCH_KEYWORD" value="false" />
     <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
-    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="SOFT_MARGINS" value="120" />
     <indentOptions>
